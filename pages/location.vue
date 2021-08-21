@@ -6,7 +6,8 @@
   </div>
 </template>
 
-export default ({
+<script>
+  export default ({
  head:{
     title: 'Location of Chhindwada Shree Mataji Birth place',
     meta: [

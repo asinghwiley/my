@@ -6,6 +6,7 @@
   </div>
 </template>
 
+<script>
 export default ({
  head:{
     title: 'Timeings of Chhindwada Shree Mataji Birth place',
