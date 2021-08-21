@@ -10,7 +10,18 @@
 </template>
 
 <script>
-export default {}
+export default {
+  head:{
+    title: 'Chhindwada Shree Mataji Birth Shrine',
+    meta: [
+      {
+        hid: 'Shree Mataji Birth Place Chhindwada',
+        name: 'description',
+        content: 'Shree Mataji Birth Place Chhindwada'
+      }
+    ]
+  }
+}
 </script>
 
 <style>
