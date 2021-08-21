@@ -43,6 +43,10 @@
 <style scoped>
 @import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,300;0,400;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,600;1,700;1,800;1,900&display=swap');
 @import url("https://fonts.googleapis.com/css2?family=MonteCarlo&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Merienda+One&display=swap');
+img {
+  height: 100%;
+}
 .my_col_one {
   margin: 0 !important;
   padding: 0 !important;
@@ -51,10 +55,6 @@
   width: 100% !important;
   margin: 0 !important;
   padding: 0 !important;
-}
-h1 {
-  font-family: "MonteCarlo", cursive;
-  font-weight: 800;
 }
 .card {
   border: none !important;
@@ -67,6 +67,11 @@ h1 {
 p {
   font-family: 'Nunito', sans-serif;
   font-weight: 600;
+}
+h1 {
+  font-family: "MonteCarlo", cursive !important;
+  font-weight: 800;
+  font-family: 'Merienda One', cursive !important;
 }
 /* .container {
   margin: 0;

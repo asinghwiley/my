@@ -1,10 +1,10 @@
 <template>
   <div class="myService">
     <h1 class="text-center">
-      Classes
+      Facilities
     </h1>
     <h6 class="text-center">
-      All classes take place in the temple, contact our staff for more info.
+      All facilities listed below are available in the shrine, for any support visit contact.
     </h6>
     <b-row class="my_row">
       <b-col class="my_col_one" xl="3" lg="3" md="6" sm="12">
