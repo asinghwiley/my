@@ -32,6 +32,7 @@
 .my_col_one {
   margin: 0 !important;
   padding: 0 !important;
+  background-color: #F7F4E7 !important;
 }
 .my_row {
   width: 100% !important;
